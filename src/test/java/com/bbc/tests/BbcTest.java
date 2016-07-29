@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Created by vs on 28.07.2016.
  */
-public class BbcTests extends TestBase {
+public class BbcTest extends TestBase {
 
     @Test
     public void WelcomeTextIsPresented() throws InterruptedException {
